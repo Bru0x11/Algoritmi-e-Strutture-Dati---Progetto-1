@@ -1,4 +1,4 @@
-# AlgoritmiProgetto1
+# Progetto1
 Scopo del progetto di laboratorio è verificare che lo studente sia in grado di progettare, implementare e analizzare la complessità di un programma usando gli strumenti illustrati durante le lezioni del corso di algoritmi e strutture dati. I programmi prodotti dovranno risolvere alcuni problemi classici di natura computazionale e dovranno essere formalmente corretti. Ogni progetto di laboratorio consiste nella produzione di uno o più programmi che risolvano un problema computazionale assegnato, nella stima empirica della complessità di tali programmi al variare della dimensione dell'input e di eventuali altri parametri, e nella redazione di una relazione in cui si discutano puntualmente alcune scelte implementative e si faccia un'analisi della stima di complessità.
 
 Di seguito sono riportate le consegne per la prima parte del progetto di laboratorio, da consegnare necessariamente prima dell'iscrizione all'esame finale di teoria.
